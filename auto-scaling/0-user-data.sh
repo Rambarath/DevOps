@@ -1,5 +1,5 @@
 #!/bin/bash
-# Please make sure to launch Amazon Linux 2
+# Please make sure to launch Amazon Linux 2£
 yum update -y
 yum install -y httpd
 systemctl start httpd
